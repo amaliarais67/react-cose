@@ -1,2 +1,2 @@
-# react-cose
+# react-course
 Created with CodeSandbox
